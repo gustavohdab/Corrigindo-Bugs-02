@@ -1,3 +1,5 @@
+Minha resolução: https://casualmente.github.io/Corrigindo-Bugs-02/
+
 # Iniciante - Corrigindo bugs (02) **👀**
 
 # 💻 Sobre o desafio
